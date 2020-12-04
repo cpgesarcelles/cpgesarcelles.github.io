@@ -17,7 +17,7 @@
       <div class="item-links">
         {% if item.temoignage %}
           <a class="item-link" href="{{ item.temoignage }}" title="Témoignage">
-            <span class="fa fa-quote-left"> Lire plus</span>
+            <span class="fa fa-quote-left"> <a href="{{ item.temoignage }}" > Lire plus </a></span>
           </a>
         {% endif %}
         {% if item.github %}
