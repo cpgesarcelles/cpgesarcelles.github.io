@@ -13,5 +13,4 @@ En construction
  <p>Ceci est un test </p>
  </div>
             
-<!--### Machin Truc
-> témoignage de Machin Truc -->
+
