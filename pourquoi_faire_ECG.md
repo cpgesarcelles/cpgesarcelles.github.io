@@ -3,10 +3,14 @@ layout: page
 title: Pourquoi faire une CPGE ECG ?
 ---
 
-test10
+test11
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
   <iframe title="legende" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x6vp1pu" width="100%" height="100%" allowfullscreen> </iframe>
 </div>
 
+test
 
-
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+<iframe title="titre" 
+width="560" height="315" src="https://www.dailymotion.com/embed/video/x6vp1pu" frameborder="0" allowfullscreen></iframe>    
+</div>
