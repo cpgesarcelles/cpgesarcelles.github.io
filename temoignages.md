@@ -5,14 +5,15 @@ title: Témoignages
 En construction
 
 #### Carl Bellerose- Chef de Projet Cybersécurité et Communication chez VINCI Energies
- ![](/assets/img/Bellerose.JPG)  
- > test 
 
-<blockquote>
- <p style="float:right">
+<div style="float:left">
   <img  src="assets/img/Bellerose.JPG">
- </p> 
+</div>
+
+<div >
+<blockquote>
  <p>Ceci est une citation </p>
 </blockquote>
+ </div>
 <!--### Machin Truc
 > témoignage de Machin Truc -->
