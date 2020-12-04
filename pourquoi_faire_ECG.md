@@ -10,6 +10,6 @@ title: Pourquoi faire une CPGE ECG ?
 
 Test 2
 
-!(https://dai.ly/x6vp1pu)
-Video : test
+![tes2](https://dai.ly/x6vp1pu)
+
 
