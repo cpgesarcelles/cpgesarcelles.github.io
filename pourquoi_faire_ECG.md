@@ -14,7 +14,8 @@ test5
 
 
 <figure class="video_container">
-  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x6vp1pu" width="100%" height="100%" allowfullscreen > </iframe>
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x6vp1pu" width="100%" height="100%" allowfullscreen > 
+  </iframe>
        <figcaption>Legende</figcaption>
 </figure>
 
