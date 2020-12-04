@@ -11,6 +11,6 @@ En construction
 </div>
 <div style="text-align:right">
  <p>Ceci est un test </p>
- </div>
+</div>
             
 
