@@ -10,5 +10,5 @@ En construction
 test 1
 
 <blockquote>
-<img align="left" src="assets/img/Bellerose.JPG">  temoignage
+<img align="left" src="./assets/img/Bellerose.JPG">  temoignage
 </blockquote>
