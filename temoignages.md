@@ -9,7 +9,7 @@ eleves:
 ---
 
 En construction
-test1
+test2
 {% include list-circles.html items=page.eleves %}
 
 
