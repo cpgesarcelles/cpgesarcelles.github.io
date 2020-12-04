@@ -12,7 +12,7 @@ En construction
  <p style="float:right">
   <img  src="assets/img/Bellerose.JPG">
  </p> 
- <p>Ceci est une citation issue du Mozilla Developer Network.</p>
+ <p>Ceci est une citation </p>
 </blockquote>
 <!--### Machin Truc
 > témoignage de Machin Truc -->
