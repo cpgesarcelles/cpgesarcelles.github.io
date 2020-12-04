@@ -7,6 +7,6 @@ En construction
 #### Carl Bellerose- Chef de Projet Cybersécurité et Communication chez VINCI Energies
 
 <img style="float:left" src="assets/img/Bellerose.JPG"> 
-<p>Ceci est un test3 </p>
+<p>Ceci est un test2 </p>
       
 
