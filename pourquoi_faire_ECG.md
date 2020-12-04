@@ -3,7 +3,7 @@ layout: page
 title: Pourquoi faire une CPGE ECG ?
 ---
 
-test3
+test4
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
   <figure>
 
@@ -14,7 +14,7 @@ test3
 
 
 <figure class="video_container">
-  <iframe src="https://dai.ly/x6vp1pu" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src=""https://www.dailymotion.com/embed/video/x6vp1pu" frameborder="0" allowfullscreen="true"> </iframe>
        <figcaption>Legende</figcaption>
 </figure>
 
