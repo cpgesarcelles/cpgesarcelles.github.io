@@ -12,7 +12,7 @@ test2
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
   <figure>
-  <iframe " frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x6vp1pu" width="100%" height="100%" allowfullscreen> </iframe>
+  <iframe " frameborder="0" src="https://www.dailymotion.com/embed/video/x6vp1pu" width="100%" height="100%" allowfullscreen> </iframe>
   <figcaption> source </figcaption>
   </figure>
 </div>
