@@ -10,7 +10,7 @@ En construction
   <img  src="assets/img/Bellerose.JPG"/>
 </div>
 <div style="text-align:right">
- <p>Ceci est une citation </p>
+ <p>Ceci est un test </p>
  </div>
             
 <!--### Machin Truc
