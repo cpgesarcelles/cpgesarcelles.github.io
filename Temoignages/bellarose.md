@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Témoignages
+subtitle: Carl Bellarose
 ---
 
 {: .box-note}
