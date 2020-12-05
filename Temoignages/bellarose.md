@@ -1,0 +1,3 @@
+---
+layoute:page
+---
