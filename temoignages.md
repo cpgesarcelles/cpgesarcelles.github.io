@@ -2,9 +2,9 @@
 title: Témoignages
 subtitle: Paroles aux anciens élèves
 eleves:
-  - name: Carl Bellerose 
+  - name: Carl Bellerose, Promo 2012 
     img: /assets/img/Bellerose.JPG
-    desc: promo 2012. Actuellement chef de Projet Cybersécurité et Communication chez VINCI Energies
+    desc: Chef de Projet Cybersécurité et Communication chez VINCI Energies
     temoignage: /Temoignages/bellarose
 ---
 
