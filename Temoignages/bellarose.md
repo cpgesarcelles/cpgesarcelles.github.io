@@ -1,3 +1,3 @@
 ---
-layoute:page
+layout:page
 ---
