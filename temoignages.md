@@ -8,7 +8,7 @@ eleves:
     temoignage: /Temoignages/bellarose
 ---
 
-En construction
+En construction : test
 
 {% include list-circles.html items=page.eleves %}
 
