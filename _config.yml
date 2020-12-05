@@ -20,6 +20,7 @@ navbar-links:
     - Présentation: "presentation"
     - Admission: "admission"
     - Témoignages: "temoignages"
+    - La prépa en images: "prepa_en_images"
   Partenariat:
     - Fondation Deloitte: "deloitte"
 # --- Logo --- #
