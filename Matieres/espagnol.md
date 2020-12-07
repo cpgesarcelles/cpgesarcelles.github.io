@@ -10,7 +10,7 @@ En cours d’espagnol en CPGE ECE (3h par semaine réparties sur deux jours) nou
 
 Nous étudions la conjugaison, la grammaire (nous reprenons tout, de la base, l’indicatif présent, au subjonctif imparfait) ainsi que la traduction (thème grammatical (traduire une phrase française en espagnol) et version (traduction de l’espagnol vers le français).)
 
----
+___
 
 - #### La civilisation ####
 
