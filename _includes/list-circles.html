@@ -20,6 +20,11 @@
             <span class="fa fa-quote-left"> <a href="{{ item.temoignage }}" > Lire le témoignage </a></span>
           </a>
         {% endif %}
+         {% if item.matiere %}
+          <a class="item-link" href="{{ item.matiere }}" title="Matière">
+             <a href="{{ item.matiere }}" > En savoir plus </a></span>
+          </a>
+        {% endif %}
         {% if item.github %}
           <a class="item-link" href="{{ item.github }}" title="GitHub">
             <span class="fa fa-github"></span>
