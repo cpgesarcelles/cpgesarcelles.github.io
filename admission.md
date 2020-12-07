@@ -25,6 +25,6 @@ L’inscription en classe préparatoire s’effectue via la procédure Parcoursu
 1. La **constitution** et l’envoi de votre **dossier**.
 1.  **Examen** de votre **dossier** début mai par une commission qui vous attribuera un classement.
 1.  Résultats d’admission en deux phases :
-    - **Phase d’admission principale** : 27/05/2021 au 16/07/2021
-    - **Phase d’admission complémentaire** : 16/06/2021 au 16/09/202
+    - **Phase d’admission principale** : 27/05/2021 au 16/07/2021.
+    - **Phase d’admission complémentaire** : 16/06/2021 au 16/09/2021.
 1. **L’inscription administrative** dans l’établissement selon un calendrier harmonisé : début juillet après les résultats du baccalauréat pour la phase **d’admission principale** et fin août-début septembre pour la phase **d’admission complémentaire**.
