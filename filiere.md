@@ -3,7 +3,7 @@ layout: page
 title: La filière ECG
 subtitle: courte description
 contenu:
-  -name: Espagnol
+  - name: Espagnol
 ---
 
 blabala:
