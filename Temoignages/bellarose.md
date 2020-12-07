@@ -2,6 +2,7 @@
 layout: page
 title: Témoignages
 subtitle: Carl Bellarose
+avatar: "/assets/img/Bellerose.JPG"
 ---
 
 {: .box-note}
