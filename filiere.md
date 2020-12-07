@@ -4,6 +4,7 @@ title: La filière ECG
 subtitle: courte description
 contenu:
   - name: Espagnol
+    img: /assets/img/logo_espagnol.JPG
 ---
 
 blabala:
