@@ -16,6 +16,6 @@ contenu:
 La classe préparatoire aux Grandes Ecoles (CPGE) filière **ECG** est une formation de deux ans très valorisée par les entreprises qui vous permettra de préparer un concours pour intégrer une des 25 grandes écoles de Management (HEC, ESSEC, Néoma, Kedge, etc). Au terme des deux années en CPGE, vous réaliserez trois années en école de management pour atteindre un diplôme de Master.
 
 
-### Quels contenus en prépa ECG ?
+### Quels contenus en prépa ECG ? test
 
 {% include list-circles.html items=page.contenu %}
