@@ -8,7 +8,7 @@ contenu:
     matiere: /Matieres/espagnol
   - name: Mathématiques
     img: /assets/img/logo_math.jpg
-    matiere: /Matieres/maths
+    matiere: /Matieres/math
 ---
 
 ### Qu'est-ce qu'une prépa ECG ?
