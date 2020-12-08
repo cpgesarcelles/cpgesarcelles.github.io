@@ -18,13 +18,9 @@ Des heures de khôlles (interrogations orales par groupes de 2 ou 3), à raison 
 Le programme d’ECE1 comporte plusieurs grandes parties :
 
 - Suites numériques, séries
-
 - Calcul matriciel
-
 - Fonction réelle d’une variable réelle (limites, continuité, dérivées, fonctions usuelles, intégrales)
-
 - Probabilités discrètes et continues
-
 - Utilisation du logiciel informatique Scilab
 
 
