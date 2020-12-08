@@ -6,6 +6,9 @@ contenu:
   - name: Espagnol
     img: /assets/img/logo_espagnol.jpg
     matiere: /Matieres/espagnol
+  - name: Mathématiques
+    img: /assets/img/logo_maths.jpg
+    matiere: /Matieres/maths
 ---
 
 ### Qu'est-ce qu'une prépa ECG ?
