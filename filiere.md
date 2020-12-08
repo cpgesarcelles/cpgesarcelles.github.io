@@ -7,7 +7,7 @@ contenu:
     img: /assets/img/logo_espagnol.jpg
     matiere: /Matieres/espagnol
   - name: Mathématiques
-    img: /assets/img/logo_math.jpg
+    img: assets/img/logo_math.jpg
     matiere: /Matieres/math
 ---
 
