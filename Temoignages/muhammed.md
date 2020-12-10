@@ -2,7 +2,7 @@
 layout: page
 title: Témoignages
 subtitle: Danis Muhammed
-avatar: "/assets/img/muhammed.JPG"
+avatar: "/assets/img/muhammed.jpg"
 ---
 
 {: .box-note}
