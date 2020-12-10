@@ -6,6 +6,10 @@ eleves:
     img: /assets/img/Bellerose.JPG
     desc: Chef de Projet Cybersécurité et Communication chez VINCI Energies
     temoignage: /Temoignages/bellarose
+  - name: Danish Muhammed 
+    img: /assets/img/muhammed.jpg
+    desc: Consultant en système d'informations chez Mc2i
+    temoignage: /Temoignages/muhammed
 ---
 
 {% include list-circles.html items=page.eleves %}
