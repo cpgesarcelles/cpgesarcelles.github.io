@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Témoignages
-subtitle: Danis Muhammed
+subtitle: Danish Muhammed
 avatar: "/assets/img/muhammed.jpg"
 ---
 
