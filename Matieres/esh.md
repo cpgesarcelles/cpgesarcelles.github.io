@@ -2,6 +2,7 @@
 layout: page
 title: ESH
 subtitle: Économie, sociologie et histoire du monde contemporain
+avatar: "/assets/img/logo_esh.jpg"
 ---
 
 L’enseignement d’économie, sociologie et histoire du monde contemporain (ESH) articule trois approches complémentaires : la science économique, l’analyse sociologique, l’histoire de la pensée et des faits économiques et sociaux. Cet enseignement prépare à l’épreuve écrite des concours qui consiste en une dissertation (4 heures). Il permet aussi à l'étudiant souhaitant réintégrer l'université en troisième année (L3) en économie-gestion de maîtriser un solide bagage pour réussir ses études supérieures.
