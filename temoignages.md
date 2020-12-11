@@ -13,7 +13,7 @@ eleves:
   - name: Loïck Akakpo, Promo 2012
     img: /assets/img/akakpo.jpg
     desc: Consultant en Management chez CGI Business Consulting
-    temoignage: /Temoignages/akokpo
+    temoignage: /Temoignages/akakpo
 ---
 
 {% include list-circles.html items=page.eleves %}
