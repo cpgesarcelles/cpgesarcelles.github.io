@@ -2,7 +2,7 @@
 layout: page
 title: Témoignages
 subtitle: Loïck Akakpo
-avatar: "/assets/img/akakpo.JPG"
+avatar: "/assets/img/akakpo.jpg"
 ---
 {: .box-note}
 **Éléments contextuels:**
