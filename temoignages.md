@@ -11,7 +11,7 @@ eleves:
     desc: Consultant en système d'informations chez Mc2i
     temoignage: /Temoignages/muhammed
   - name: Loïck Akakpo, Promo 2012
-    img: /assets/img/akokpo.jpg
+    img: /assets/img/akakpo.jpg
     desc: Consultant en Management chez CGI Business Consulting
     temoignage: /Temoignages/akokpo
 ---
