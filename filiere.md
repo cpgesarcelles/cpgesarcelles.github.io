@@ -10,6 +10,7 @@ contenu:
     img: /assets/img/logo_math.jpg
     matiere: /Matieres/math
   - name: ESH
+    img: /assets/img/logo_esh.jpg
     matiere: /Matieres/esh
 ---
 
