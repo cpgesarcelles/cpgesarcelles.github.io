@@ -22,6 +22,6 @@ Le programme d’ECE1 comporte plusieurs grandes parties :
 - Calcul matriciel
 - Fonction réelle d’une variable réelle (limites, continuité, dérivées, fonctions usuelles, intégrales)
 - Probabilités discrètes et continues
-- Utilisation du logiciel informatique Scilab
+- Utilisation du langage Python
 
 
