@@ -9,6 +9,8 @@ contenu:
   - name: Mathématiques
     img: /assets/img/logo_math.jpg
     matiere: /Matieres/math
+  - name: ESH
+    matiere: /Matieres/esh
 ---
 
 ### Qu'est-ce qu'une prépa ECG ?
