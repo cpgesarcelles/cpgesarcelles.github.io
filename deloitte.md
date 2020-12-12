@@ -1,5 +1,5 @@
 ---
 layout: page
-title: 
+title: Partenariats
 subtitle : Fondation Deloitte
 ---
