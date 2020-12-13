@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mathématiques
-avatar: "/assets/img/logo_math.jpg"
+avatar: "/assets/img/logo/logo_math.jpg"
 ---
 
 #### Les mathématiques en classe préparatoire ECE ####
