@@ -56,3 +56,76 @@ navbar {
   color: #042265;
 }
 
+/*  Visionneuse */
+
+/*div#galerie
+{
+  width: 410px ;
+  background: #eed ;
+  border: 1px solid #dcb ;
+  padding: 15px ;
+  margin: 15px 30px ;
+  text-align: center ;
+  font: 0.9em Georgia, serif ;
+}*/
+
+ul#galerie_mini
+{
+  margin: 0 ;
+  padding: 0 ;
+  list-style-type: none ;
+}
+
+ul#galerie_mini li
+{
+  float: left ;
+}
+
+list-mini-item#galerie_mini li a img
+{
+  margin: 2px 1px ;
+}
+
+dl#photo
+{
+  clear: both ;
+  margin: 0 auto ;
+}
+
+dl#photo dt
+{
+
+}
+
+dl#photo dd
+{
+  margin: 0 ;
+}
+
+dl#photo img
+{
+  
+}
+
+
+dl#photo
+{
+  clear: both ;
+  margin: 0 auto ;
+}
+
+dl#photo dt
+{
+
+
+}
+
+dl#photo dd
+{
+  margin: 0 ;
+}
+
+dl#photo img
+{
+
+}
