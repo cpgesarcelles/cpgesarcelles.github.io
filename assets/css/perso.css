@@ -64,12 +64,15 @@ div#galerie
   text-align: center ;
 }
 
+div#scroll{
+  overflow-x: scroll;
+}
+
 ul#galerie_mini
 {
   margin: 0 ;
   padding: 0 ;
   list-style-type: none ;
-  overflow-x: scroll;
 }
 
 ul#galerie_mini li
