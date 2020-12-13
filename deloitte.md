@@ -8,7 +8,7 @@ miniatures:
     mini: /assets/img/mini/parlement_mini.JPG
     name: Parlement
   - img: /assets/img/philharmonie1.JPG
-    mini: //assets/img/mini/philharmonie1_mini.jpg
+    mini: /assets/img/mini/philharmonie1_mini.jpg
     name: Concert à la Philharmonie de Paris (2016)
   - img: /assets/img/philharmonie2.JPG
     mini: /assets/img/mini/philharmonie2_mini.jpg
