@@ -1,11 +1,13 @@
 <div id="galerie">
   <dl id="photo">
-    {% if init.img %}
-    {% if init.name %}
-    <dt>Concert à la Philharmonie de Paris(2016)</dt>
-    <dd><img id="big_pict" src="{{ init.img }}" alt="{{ init.name }}" /></dd>
+    {% for item in include_init %}
+    {% if item.img %}
+    {% if item.name %}
+    <dt>{{ item.name }}</dt>
+    <dd><img id="big_pict" src="{{ item.img }}" alt="{{ item.name }}" /></dd>
       {% endif %}
         {% endif %}
+    {% endfor %}
   </dl>
   <hr>
 <ul id="galerie_mini">
