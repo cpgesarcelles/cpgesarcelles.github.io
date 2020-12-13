@@ -25,4 +25,4 @@ L’entreprise **Deloitte** est un leader mondial dans les activités d’audit 
 
 Photos test 2
 
-{% include visionneuse.html with init=page.initialisation  items=page.miniatures %}
+{% include visionneuse.html init=page.initialisation  items=page.miniatures %}
