@@ -3,7 +3,7 @@ layout: page
 title: Nos partenariats
 subtitle: La Fondation Deloitte
 js: /assets/js/visionneuse.js
-init:
+initialisation:
   - img: /assets/img/philharmonie1.JPG
     name: Concert à la Philharmonie de Paris (2016)
 miniatures: 
@@ -25,4 +25,4 @@ L’entreprise **Deloitte** est un leader mondial dans les activités d’audit 
 
 Photos test
 
-{% include visionneuse.html init=page.init  items=page.miniatures %}
+{% include visionneuse.html init=page.initialisation  items=page.miniatures %}
