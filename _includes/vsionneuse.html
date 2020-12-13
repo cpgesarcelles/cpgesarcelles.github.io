@@ -1,0 +1,19 @@
+<div id="galerie">
+  <dl id="photo">
+    <dt>Philharmonie</dt>
+    <dd><img id="big_pict" src="/test/assets/img/philharmonie2016.JPG" alt="Philharmonie" /></dd>
+  </dl>
+  <hr>
+<ul id="galerie_mini">
+  {% for item in include.items %}
+      {% if item.mini %}
+        {% if item.img %}
+          {% if item.name %}
+         <li>   <a href="{{ item.img }}" title="{{ item.name}}"><img src="{{ item.mini}}"  alt="{{ item.name}}"/></a>
+  </li>
+          {% endif %}
+        {% endif %}
+      {% endif %} 
+  {% endfor %} 
+    </ul>
+</div>
