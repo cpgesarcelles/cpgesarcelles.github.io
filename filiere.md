@@ -4,13 +4,13 @@ title: La filière ECG
 subtitle: courte description
 contenu:
   - name: Espagnol
-    img: /assets/img/logo_espagnol.jpg
+    img: /assets/img/logo/logo_espagnol.jpg
     matiere: /Matieres/espagnol
   - name: Mathématiques
-    img: /assets/img/logo_math.jpg
+    img: /assets/img/logo/logo_math.jpg
     matiere: /Matieres/math
   - name: ESH
-    img: /assets/img/logo_esh.jpg
+    img: /assets/img/logo/logo_esh.jpg
     matiere: /Matieres/esh
 ---
 
