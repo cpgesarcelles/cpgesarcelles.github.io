@@ -81,8 +81,7 @@ ul#galerie_mini li
   display: inline-block;
   width: 100px;
   vertical-align: top;
-  margin: 0;
-  padding: 10px;
+  margin: 5px;
 }
 
 list-mini-item#galerie_mini li a img
