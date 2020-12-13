@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Espagnol
-avatar: "/assets/img/logo_espagnol.jpg"
+avatar: "/assets/img/logo/logo_espagnol.jpg"
 ---
 
 En cours d’espagnol en CPGE ECE (3h par semaine réparties sur deux jours) nous nous focalisons sur deux aspects :
