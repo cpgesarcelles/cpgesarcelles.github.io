@@ -64,11 +64,6 @@ div#galerie
   text-align: center ;
 }
 
-div#scroll{
-    
-  overflow-x: scroll;
-}
-
 ul#galerie_mini
 {
   margin: 0 ;
@@ -81,13 +76,7 @@ ul#galerie_mini li
   display: inline-block;
   width: 100px;
   vertical-align: top;
-  margin: 5px;
-}
-
-list-mini-item#galerie_mini li a img
-{
-  margin: 2px 1px ;
-  border: 1px solid ;
+  margin: 2px;
 }
 
 dl#photo
