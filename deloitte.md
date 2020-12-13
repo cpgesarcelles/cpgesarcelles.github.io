@@ -9,7 +9,7 @@ initialisation:
 miniatures: 
   - img: /assets/img/parlement_strasbourg.JPG
     mini: /assets/img/mini/parlement_mini.JPG
-    name: Parlement
+    name: Visite du Parlement de Strasbourg
   - img: /assets/img/philharmonie1.JPG
     mini: /assets/img/mini/philharmonie1_mini.jpg
     name: Concert à la Philharmonie de Paris (2016)
