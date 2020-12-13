@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nos partenariats
-subtitle : La Fondation Deloittejs: /assets/js/visionneuse.js
+subtitle: La Fondation Deloittejs: /assets/js/visionneuse.js
 miniatures: 
   - img: /assets/img/parlement_strasbourg.JPG
     mini: /assets/img/mini/parlement_mini.JPG
