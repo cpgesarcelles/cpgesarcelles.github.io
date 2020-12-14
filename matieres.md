@@ -1,6 +1,5 @@
 ---
 layout: page
-name: Quelles matières
 title: ECG
 subtitle:  Quelles matières y sont enseignées ?
 contenu:
