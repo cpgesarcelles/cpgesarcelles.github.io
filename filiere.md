@@ -12,6 +12,9 @@ contenu:
   - name: ESH
     img: /assets/img/logo/logo_esh.jpg
     matiere: /Matieres/esh
+  - name: Philosophie
+    img: /assets/img/logo/logo_philo.jpg
+    matiere: /Matieres/philo
 ---
 
 ### Qu'est-ce qu'une prépa ECG ?
