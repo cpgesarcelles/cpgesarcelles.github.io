@@ -27,8 +27,6 @@ contenu:
 | Philosophie | 3h | 3h |
 | Culture génrérale | 3h | 3h |
 
-[spoiler] test[/spoiler]
-
 
 {% include list-circles.html items=page.contenu %}
 
