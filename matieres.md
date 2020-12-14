@@ -33,8 +33,8 @@ En première comme en deuxième année, la formation compte 28 heures de cours h
 
 A ces 28h viennent s'ajouter un devoir sur table d'une durée de 3h ou 4h selon la matière ainsi que des interrogations
  orales d'une heure chacune (deux par semaine en moyenne : les  "khôlles"). Ces interrogations personnalisées vous permettront de développer une compétence primordiale dans le monde du travail actuel : **l'aisance à l'oral**.
- 
- ### Présentation des matières ###
+
+### Présentation des matières ###
  
 {% include list-circles.html items=page.contenu %}
 
