@@ -36,7 +36,7 @@ A ces 28h viennent s'ajouter un devoir sur table d'une durée de 3h ou 4h selon 
 
 ### Présentation des matières ###
  
- ?
+ 
  
 {% include list-circles.html items=page.contenu %}
 
