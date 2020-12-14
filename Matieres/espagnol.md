@@ -23,3 +23,5 @@ L’objectif est de progresser en langue, de découvrir la richesse de ce monde 
 
 
 Lors des deux années, il y a 3h de cours d’espagnol par semaine, 2h un jour et 1h un autre jour. A ces heures de cours s’ajoutent des heures de khôlles (interrogations orales avec 20 minutes de préparation et 20 minutes d’oral devant un professeur). Il y a environ 5/6 khôlles par an en espagnol.
+
+[Retour](/matieres)
