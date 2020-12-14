@@ -21,7 +21,7 @@ contenu:
 
 En première comme en deuxième année, la formation compte 28 heures de cours hebdomadaires :
 
-| Matière | Première année | Deuxième année |
+| Matières | Première année | Deuxième année |
 | :------ |:--- | :--- |
 | ESH | 8h | 8h |
 | Mathématiques appliquées | 6h | 6h |
