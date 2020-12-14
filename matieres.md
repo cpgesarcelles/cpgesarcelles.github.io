@@ -17,5 +17,19 @@ contenu:
     matiere: /Matieres/philo
 ---
 
+| Matière | Première année | Deuxième année |
+| :------ |:--- | :--- |
+| ESH | 8h | 8h |
+| Mathématiques appliquées | 6h | 6h |
+| Maths TD | 2h | 2h |
+| LV1 | 3h | 3h |
+| LV2 | 3h | 3h |
+| Philosophie | 3h | 3h |
+| Culture génrérale | 3h | 3h |
+
+[spoiler] test[/spoiler]
+
 
 {% include list-circles.html items=page.contenu %}
+
+
