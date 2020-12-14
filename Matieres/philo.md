@@ -15,3 +15,5 @@ Le travail de deuxième année est ciblé exclusivement sur le thème mis au pro
 Au terme de ce cursus de deux années, les étudiants auront acquis une maîtrise de la réflexion, aussi bien orale qu’écrite. Ils seront autonomes et pourront aborder sereinement la poursuite de leurs études, qu’ils décident de les mener en école de commerce ou à l’Université. L’enseignement de philosophie en classe préparatoire est riche et formateur. Il permet aux étudiants de concrétiser leurs projets de vie professionnelle en mettant à leur disposition des outils pour réussir les épreuves des concours, mais il les dote aussi d’une plus grande assurance, fondée sur une compréhension plus fine des courants de pensée contemporains, et de leurs enjeux politiques.
 
 Les moyennes des étudiants prennent en compte à coefficient égal les notes obtenues à l’écrit (dissertations rédigées en classe) et à l’oral (khôlles). Cela permet de rendre justice à toutes leurs qualités, en laissant l’occasion à chacun d’harmoniser ses résultats et de constituer des dossiers de candidature solides, s’il souhaite à l’avenir intégrer d’autres établissements de l’enseignement supérieur. 
+
+[Retour](/matieres)
