@@ -23,6 +23,7 @@ navbar-links:
     - La prépa JJR en images: "prepa_en_images"
   Nos partenariats:
     - Fondation Deloitte: "deloitte"
+    - Partenariats universitaires: "partenariat_univ"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
