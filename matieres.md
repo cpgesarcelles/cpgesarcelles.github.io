@@ -1,7 +1,6 @@
 ---
 layout: page
-title: La filière ECG
-subtitle: courte description
+title:  Quelles matières sont enseignées en prépa ECG ?
 contenu:
   - name: Espagnol
     img: /assets/img/logo/logo_espagnol.jpg
