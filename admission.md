@@ -4,7 +4,7 @@ title: Admission
 subtitle: Quels profils pour postuler ?
 ---
 
-### Qui peut postuler en prépa ECG ?
+### Qui peut postuler dans notre prépa ECG ?
 
 Le premier critère est la **motivation** et **la volonté de réussir** ! 
 
