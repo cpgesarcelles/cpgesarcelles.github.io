@@ -14,3 +14,5 @@ Entrainements et évaluations
 - 6 épreuves écrites par année d’étude dans les conditions des concours
 - Des entraînements à l’oral (khôlles) toutes les deux semaines : ils permettent d’assimiler les connaissances et de progresser dans l’organisation et l’exposition des idées
 - Des travaux à la maison (plans, dissertations, lectures et synthèses etc.)
+
+[Retour](/matieres)
