@@ -24,6 +24,7 @@ navbar-links:
   Nos partenariats:
     - Fondation Deloitte: "deloitte"
     - Partenariats universitaires: "partenariat_univ"
+    
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
