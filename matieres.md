@@ -17,6 +17,10 @@ contenu:
     matiere: /Matieres/philo
 ---
 
+### Horaires hebdomadaires ###
+
+En première commen en deuxième année, la formation compte 28 heures de cours hebdomadaires :
+
 | Matière | Première année | Deuxième année |
 | :------ |:--- | :--- |
 | ESH | 8h | 8h |
@@ -27,7 +31,11 @@ contenu:
 | Philosophie | 3h | 3h |
 | Culture génrérale | 3h | 3h |
 
-
+A ces 28h viennent s'ajouter un devoir sur table d'une durée de 3h ou 4h selon la matière ainsi que des interrogations
+ orales d'une heure chacune (deux par semaine en moyenne : les  "khôlles"). Ces interrogations personnalisées vous permettront de développer une compétence primordiale dans le monde du travail actuel : **l'aisance à l'oral**.
+ 
+ ### Présentation des matières
+ 
 {% include list-circles.html items=page.contenu %}
 
 
