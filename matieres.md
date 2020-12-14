@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  Quelles matières sont enseignées en prépa ECG ?
+title: ECG
+subtitle:  Quelles matières sont enseignées en prépa ECG ?
 contenu:
   - name: Espagnol
     img: /assets/img/logo/logo_espagnol.jpg
