@@ -1,4 +1,4 @@
 ---
 layout: page
-name: Partenariats universitaires
+title: Partenariats universitaires
 ---
