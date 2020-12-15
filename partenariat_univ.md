@@ -1,4 +1,5 @@
 ---
 layout: page
-title: Partenariats universitaires
+title: Nos partenariats
+subtitle: Universités
 ---
