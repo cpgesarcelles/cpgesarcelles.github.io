@@ -4,7 +4,7 @@ title: Nos partenariats
 subtitle: Partenariats universitaires
 ---
 
-**100% de réussite au concours ou à l’université** !
+### 100% de réussite au concours ou à l’université ! ###
 
 La particularité de la **filière ECG** est qu’il y a plus de places en école de commerce qu’il y a d’étudiants inscrits au concours. **Un étudiant de CPGE est donc certain d’obtenir une école après une CPGE ECG** ! L’enjeu du concours est donc de réaliser son potentiel pour obtenir l’école la plus prestigieuse possible et/ou celle qui correspond le mieux au profil de l’étudiant.
 
@@ -20,3 +20,7 @@ Sous réserve que l’étudiant soit sérieux dans sa scolarité en CPGE
 | :------ |:--- | :--- |
 | Un an | 60 ECTS = Licence 1 (L1) | L’élève peut s’inscrire en deuxième année (L2) |
 | Deux ans | 120 ECTS = Licence 2 (L2) | L’élève peut s’inscrire en troisième année (L3) |
+
+### Concours passerelle ###
+
+Le concours passerelle 2 est un concours qui permet à nos étudiants repartant en Licence 3 à **l’université pour intégrer une école de management directement au niveau M1**.
