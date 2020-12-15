@@ -26,3 +26,23 @@ Sous réserve que l’étudiant soit sérieux dans sa scolarité en CPGE
 Le concours passerelle 2 est un concours qui permet à nos étudiants repartant en Licence 3 à **l’université pour intégrer une école de management directement au niveau M1**.
 
 [![image passerelle](assets/img/passerelle.png)](https://grande-ecole.passerelle-esc.com/)
+
+### Partenariat avec l'université Paris-Nanterre ###
+
+Licence Économie et gestion : [description de la formation](https://www.parisnanterre.fr/offre-de-formation-2019-2020/licence-droit-economie-gestion-br-mention-economie-et-gestion-br-parcours-economie-249907.kjsp?RH=1574956048104).
+
+Inscription cumulative université-CPGE : [procédure et dossier](https://candidatures-inscriptions.parisnanterre.fr/dossier-d-inscription-cumulative-1ere-ou-2e-annee-non-cube--969032.kjsp?RH=1588860316234).
+
+
+### Partenariat avec l'Université Cergy ###
+
+Licence Économie et gestion: [description de la formation](https://www.u-cergy.fr/fr/ufr-economie-et-gestion.html).
+
+
+
+### Partenariat avec l'Université de Paris-Est Créteil (partenariat en cours de réalisation) ###
+
+Licence économie et gestion : [description de la formation](https://www.u-pec.fr/fr/formation/niveau-l/licence-economie-et-gestion).
+
+Inscription cumulative CPGE- Université : [procédure et dossier](https://www.u-pec.fr/fr/etudiant-e/candidature-et-inscriptions/inscription-des-etudiant-e-s-de-classe-preparatoire-aux-grandes-ecoles).
+
