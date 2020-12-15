@@ -33,12 +33,9 @@ Licence Économie et gestion : [description de la formation](https://www.parisna
 
 Inscription cumulative université-CPGE : [procédure et dossier](https://candidatures-inscriptions.parisnanterre.fr/dossier-d-inscription-cumulative-1ere-ou-2e-annee-non-cube--969032.kjsp?RH=1588860316234).
 
-
-### Partenariat avec l'Université Cergy ###
+### Partenariat avec l'Université Cergy ###
 
 Licence Économie et gestion: [description de la formation](https://www.u-cergy.fr/fr/ufr-economie-et-gestion.html).
-
-
 
 ### Partenariat avec l'Université de Paris-Est Créteil (partenariat en cours de réalisation) ###
 
