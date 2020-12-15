@@ -24,3 +24,5 @@ Sous réserve que l’étudiant soit sérieux dans sa scolarité en CPGE
 ### Concours passerelle ###
 
 Le concours passerelle 2 est un concours qui permet à nos étudiants repartant en Licence 3 à **l’université pour intégrer une école de management directement au niveau M1**.
+
+[![image passerelle](assets/img/passerelle.png)](https://grande-ecole.passerelle-esc.com/)
