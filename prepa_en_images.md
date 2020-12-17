@@ -2,13 +2,10 @@
 title: La prépa en images
 cover-img: ["assets/img/philharmonie2016_test.jpg" : "Concert à la Philharmonie de Paris (2016)", "assets/img/parlement_strasbourg.JPG" : "Parlement Strasbourg", "assets/img/topchef/topchef1.JPG" : "Prépa top chef"]
 js: /assets/js/visionneuse.js
-initialisation1:
+initialisation:
   - img: /assets/img/philharmonie1.JPG
     name: Concert à la Philharmonie de Paris (2016)
-initialisation2:
-  - img: /assets/img/topchef/topchef1.JPG
-    name: Prépa Top Chef (2017)
-miniature1: 
+miniature: 
   - img: /assets/img/philharmonie1.JPG
     mini: /assets/img/mini/philharmonie1_mini.jpg
     name: Concert à la Philharmonie de Paris (2016)
@@ -18,7 +15,6 @@ miniature1:
   - img: /assets/img/philharmonie3.JPG
     mini: /assets/img/mini/philharmonie3_mini.jpg
     name: Concert à la Philharmonie de Paris (2016)
-miniature2:
   - img: /assets/img/topchef/topchef1.JPG
     mini: /assets/img/mini/topchef1_mini.jpg
     name: Prépa Top Chef (2017)
@@ -36,8 +32,5 @@ miniature2:
     name: Prépa Top Chef (2017)
 ---
 
-{% include visionneuse.html init=page.initialisation1  items=page.miniature1 %}
+{% include visionneuse.html init=page.initialisation items=page.miniature %}
 
----
-
-{% include visionneuse.html init=page.initialisation2  items=page.miniature2 %}
