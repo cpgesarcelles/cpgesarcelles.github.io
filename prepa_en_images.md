@@ -4,8 +4,8 @@ cover-img: ["assets/img/philharmonie2016_test.jpg" : "Concert à la Philharmonie
 initialisation1:
   - img: /assets/img/philharmonie1.JPG
     name: Concert à la Philharmonie de Paris (2016)
-initialisation1:
-  - img: assets/img/topchef/topchef1.JPG
+initialisation2:
+  - img: /assets/img/topchef/topchef1.JPG
     name: Prépa Top Chef (2017)
 miniature1: 
   - img: /assets/img/philharmonie1.JPG
