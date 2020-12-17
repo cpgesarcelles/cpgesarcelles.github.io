@@ -17,7 +17,7 @@ La particularité de la **filière ECG** est qu’il y a plus de places en écol
 
 Grâce à [nos partenariats universitaires](/partenariat_univ) un étudiant de CPGE acquiert à chaque semestre des crédits d’enseignements (ECTS) qui lui permettent à tout moment de réintégrer un cursus d’Économie-Gestion. Aujourd’hui 1/3 de nos étudiants décident, au terme de leur parcours de 2 ans dans notre CPGE, de poursuivre leurs études en **troisième année de licence** (**L3**) à l’Université en Économie-Gestion pour ensuite intégrer des **Master sélectifs et prestigieux**. Ce parcours permet à nos étudiants d’éviter les deux premières à l’université où le taux d’abandon ou d’échec peut être très fort (**60% en première année** d’après *L’Étudiant* et *Le Monde*) et d’arriver ainsi directement en L3 avec un très bon niveau scolaire.
 
-Ce passage par l’université permet aussi à l’étudiant d’intégrer directement une école de commerce en Troisième année ou en Master 1 grâce aux **concours Passerelle 1 et 2** (voir rubrique partenariat-Université et concours passerelle).
+Ce passage par l’université permet aussi à l’étudiant d’intégrer directement une école de commerce en Troisième année ou en Master 1 grâce aux **concours Passerelle 1 et 2** (voir [nos partenariats universitaires](/partenariat_univ/)).
 
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
