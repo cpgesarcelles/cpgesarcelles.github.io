@@ -14,6 +14,10 @@ eleves:
     img: /assets/img/akakpo.jpg
     desc: Consultant en Management chez CGI Business Consulting
     temoignage: /Temoignages/akakpo
+  - name: Sarah Avci, Promo 2018
+    img: /assets/img/avci.png
+    desc:  L3 AEI classe sélective International Business à l'université Paris Crétei
+    temoignage: /Temoignages/avci
 ---
 
 {% include list-circles.html items=page.eleves %}
