@@ -19,19 +19,19 @@ miniature1:
     mini: /assets/img/mini/philharmonie3_mini.jpg
     name: Concert à la Philharmonie de Paris (2016)
 miniature2:
-  - img: assets/img/topchef/topchef1.JPG
+  - img: /assets/img/topchef/topchef1.JPG
     mini: /assets/img/mini/topchef1_mini.jpg
     name: Prépa Top Chef (2017)
-  - img: assets/img/topchef/topchef2.JPG
+  - img: /assets/img/topchef/topchef2.JPG
     mini: /assets/img/mini/topchef2_mini.jpg
     name: Prépa Top Chef (2017)
-  - img: assets/img/topchef/topchef3.JPG
+  - img: /assets/img/topchef/topchef3.JPG
     mini: /assets/img/mini/topchef3_mini.jpg
     name: Prépa Top Chef (2017)
-  - img: assets/img/topchef/topchef4.JPG
+  - img: /assets/img/topchef/topchef4.JPG
     mini: /assets/img/mini/topchef4_mini.jpg
     name: Prépa Top Chef (2017)
-  - img: assets/img/topchef/topchef5.JPG
+  - img: /assets/img/topchef/topchef5.JPG
     mini: /assets/img/mini/topchef5_mini.jpg
     name: Prépa Top Chef (2017)
 ---
