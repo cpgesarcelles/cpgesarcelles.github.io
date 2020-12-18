@@ -1,28 +1,25 @@
-function displayPics()
+var galerie = function displayPics(galerie_courante)
 {
-  var nombre_galeries = document.getElementById('galerie') ;
-  
-  for (var j= 0 ; j < nombre_galeries.length ; ++j) {
-    var photos = nombre_galeries[j].getElementById('galerie_mini') ;
+  var photos = galerie_courante.getElementById('galerie_mini') ;
   // On récupère l'élément ayant pour id galerie_mini
-    var liens = photos.getElementsByTagName('a') ;
+  var liens = photos.getElementsByTagName('a') ;
   // On récupère dans une variable tous les liens contenu dans galerie_mini
-    var big_photo = nombre_galeries[j].getElementById('big_pict') ;
+  var big_photo = galerie_courante.getElementById('big_pict') ;
   // Ici c'est l'élément ayant pour id big_pict qui est récupéré, c'est notre photo en taille normale
-    var titre_photo = nombre_galeries[j].getElementById('photo').getElementsByTagName('dt')[0] ;
+
+  var titre_photo = galerie_courante.getElementById('photo').getElementsByTagName('dt')[0] ;
   // Et enfin le titre de la photo de taille normale
   // Une boucle parcourant l'ensemble des liens contenu dans galerie_mini
-    for (var i = 0 ; i < liens.length ; ++i) {
+  for (var i = 0 ; i < liens.length ; ++i) {
     // Au clique sur ces liens 
-      liens[i].onclick = function() {
-        big_photo.src = this.href; // On change l'attribut src de l'image en le remplaçant par la valeur du lien
-        big_photo.alt = this.title; // On change son titre
-        titre_photo.firstChild.nodeValue = this.title; // On change le texte de titre de la photo
-        return false; // Et pour finir on inhibe l'action réelle du lien
-      };
+    liens[i].onclick = function() {
+      big_photo.src = this.href; // On change l'attribut src de l'image en le remplaçant par la valeur du lien
+      big_photo.alt = this.title; // On change son titre
+      titre_photo.firstChild.nodeValue = this.title; // On change le texte de titre de la photo
+      return false; // Et pour finir on inhibe l'action réelle du lien
     };
   }
 }
 
 // Il ne reste plus qu'à appeler notre fonction au chargement de la page
-window.onload = displayPics;
+galerie('#galerie');
