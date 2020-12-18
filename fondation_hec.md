@@ -16,7 +16,7 @@ La conférence sera animée par Anne-Sophie Chaxel, Professeur Associé à HEC P
 
 <div class="box-note">
 <p> <strong>Exemple:</strong>  le jeudi 17 décembre de 19h30 à 20h30 via zoom dont le sujet sera :
-<center>**C’est quoi le marketing en école de commerce ? Vers quels métiers ?**  </center>
+  <center><strong>C’est quoi le marketing en école de commerce ? Vers quels métiers ?</strong> </center>
 <p>La conférence sera animée par Anne-Sophie Chaxel, Professeur Associé à HEC Paris.</p>
 </div>
 
