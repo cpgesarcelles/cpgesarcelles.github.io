@@ -22,7 +22,7 @@ function displayPics()
       titre_photo.firstChild.nodeValue = this.title; // On change le texte de titre de la photo
       return false; // Et pour finir on inhibe l'action réelle du lien
     };
-  }
+  };
   }
 }
 
