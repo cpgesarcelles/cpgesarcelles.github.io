@@ -4,14 +4,14 @@ function displayPics()
   
   for (var j= 0 ; j < nombre_galeries.length ; ++j) {
   
-  var photos = document.getElementById('galerie_mini') ;
+  var photos = nombre_galeries[j].getElementById('galerie_mini') ;
   // On récupère l'élément ayant pour id galerie_mini
   var liens = photos.getElementsByTagName('a') ;
   // On récupère dans une variable tous les liens contenu dans galerie_mini
-  var big_photo = document.getElementById('big_pict') ;
+  var big_photo = nombre_galeries[j].getElementById('big_pict') ;
   // Ici c'est l'élément ayant pour id big_pict qui est récupéré, c'est notre photo en taille normale
 
-  var titre_photo = document.getElementById('photo').getElementsByTagName('dt')[0] ;
+  var titre_photo = nombre_galeries[j].getElementById('photo').getElementsByTagName('dt')[0] ;
   // Et enfin le titre de la photo de taille normale
   // Une boucle parcourant l'ensemble des liens contenu dans galerie_mini
   for (var i = 0 ; i < liens.length ; ++i) {
