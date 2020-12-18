@@ -17,3 +17,6 @@ La fondation HEC propose des mini-conférences à nos étudiants pour les aider 
 
 
 La fondation HEC propose aux étudiants de CPGE boursier du CROUSS et ayant obtenu une mention de profiter d’un tutorat par un étudiant d’HEC.
+
+[Lien](https://www.hec.edu/fr/en-bref/egalite-des-chances) vers la page de la Fondation HEC Egalité des chances.  
+[Plaquette](https://contents.hec.edu/s3fs-public/2020-09/Version%20web%20-%20Egalit%C3%A9%20des%20chances%20HEC%20Paris.pdf?OfWO2rhzKXWiqxGXdh9qlEYRUhV7VO3w=#_ga=2.247735367.1525330281.1607605743-413174991.1607005108) de présentation.
