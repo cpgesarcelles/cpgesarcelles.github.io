@@ -10,8 +10,8 @@ La fondation HEC propose des mini-conférences à nos étudiants pour les aider 
 
 
 {: .box-note}
-**Exemple:**  Le jeudi 17 décembre de 19h30 à 20h30 via zoom dont le sujet sera :
-C’est quoi le marketing en école de commerce ? Vers quels métiers ?
+**Exemple:**  le jeudi 17 décembre de 19h30 à 20h30 via zoom dont le sujet sera :
+**C’est quoi le marketing en école de commerce ? Vers quels métiers ?**  
 La conférence sera animée par Anne-Sophie Chaxel, Professeur Associé à HEC Paris. 
 
 La fondation HEC propose aux étudiants de CPGE boursier du CROUSS et ayant obtenu une mention de profiter d’un tutorat par un étudiant d’HEC.
