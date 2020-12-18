@@ -22,4 +22,4 @@ var galerie = function displayPics(galerie_courante)
 }
 
 // Il ne reste plus qu'à appeler notre fonction au chargement de la page
-galerie('#galerie');
+galerie('.galerie');
