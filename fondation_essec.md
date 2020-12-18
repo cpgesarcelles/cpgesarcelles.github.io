@@ -18,4 +18,6 @@ ayant fait une CPGE.
   </center>
 </div>
 
+---
+
 [Lien](http://egalite-des-chances.essec.edu/nos-programmes/cap-prepa) vers la page de la Fondation ESSEC
