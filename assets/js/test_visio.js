@@ -12,15 +12,15 @@ function displayPics()
     var titre_photo = nombre_galeries[j].getElementById('photo').getElementsByTagName('dt')[0] ;
   // Et enfin le titre de la photo de taille normale
   // Une boucle parcourant l'ensemble des liens contenu dans galerie_mini
-  for (var i = 0 ; i < liens.length ; ++i) {
+    for (var i = 0 ; i < liens.length ; ++i) {
     // Au clique sur ces liens 
-    liens[i].onclick = function() {
-      big_photo.src = this.href; // On change l'attribut src de l'image en le remplaçant par la valeur du lien
-      big_photo.alt = this.title; // On change son titre
-      titre_photo.firstChild.nodeValue = this.title; // On change le texte de titre de la photo
-      return false; // Et pour finir on inhibe l'action réelle du lien
+      liens[i].onclick = function() {
+        big_photo.src = this.href; // On change l'attribut src de l'image en le remplaçant par la valeur du lien
+        big_photo.alt = this.title; // On change son titre
+        titre_photo.firstChild.nodeValue = this.title; // On change le texte de titre de la photo
+        return false; // Et pour finir on inhibe l'action réelle du lien
+      };
     };
-  };
   }
 }
 
