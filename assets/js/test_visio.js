@@ -22,4 +22,4 @@ var initgalerie= function displayPics()
 }
 
 // Il ne reste plus qu'à appeler notre fonction au chargement de la page
-initgalerie('.my-gallery');
+initgalerie();
