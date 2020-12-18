@@ -10,9 +10,11 @@ ayant fait une CPGE.
 
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/OWpEb5Gdb7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/OWpEb5Gdb7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <figcaption>  CAP PREPA : zoom sur le campus "égalité des chances" de l'ESSEC pour préparer l'entrée en CPGE</figcaption>
    </figure> 
+  </center>
 </div>
 
 [Lien](http://egalite-des-chances.essec.edu/nos-programmes/cap-prepa) vers la page de la Fondation ESSEC
