@@ -2,7 +2,7 @@ function displayPics()
 {
   var nombre_galeries = document.getElementById('galerie');
   
-  for (var j= 0 ; j < nombre_galeries.length : ++j) {
+  for (var j= 0 ; j < nombre_galeries.length ; ++j) {
   
   var photos = document.getElementById('galerie_mini') ;
   // On récupère l'élément ayant pour id galerie_mini
