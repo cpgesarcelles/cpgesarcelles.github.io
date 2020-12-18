@@ -1,5 +1,9 @@
-var initgalerie= function displayPics()
+function displayPics()
 {
+  var nombre_galeries = document.getElementById('galerie');
+  
+  for (var j= 0 ; j < nombre_galeries : ++j) {
+  
   var photos = document.getElementById('galerie_mini') ;
   // On récupère l'élément ayant pour id galerie_mini
   var liens = photos.getElementsByTagName('a') ;
@@ -19,7 +23,8 @@ var initgalerie= function displayPics()
       return false; // Et pour finir on inhibe l'action réelle du lien
     };
   }
+  }
 }
 
 // Il ne reste plus qu'à appeler notre fonction au chargement de la page
-initgalerie();
+window.onload = displayPics;
