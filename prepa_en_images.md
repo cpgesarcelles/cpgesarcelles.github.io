@@ -32,7 +32,7 @@ miniature:
     name: Prépa Top Chef (2017)
 ---
 
-{% include visionneuse.html init=page.initialisation1 items=page.miniature1 %}
+{% include visionneuse.html init=page.initialisation items=page.miniature %}
 
 
 
