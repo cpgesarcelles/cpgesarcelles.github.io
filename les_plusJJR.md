@@ -16,9 +16,9 @@ Les élèves du supérieur (CPGE et BTS) disposent d’un étage qui leur est en
 - Un **partenariat** avec le cabinet **Deloitte** (un des trois leaders mondiaux de l’audit et du conseil) pour effectuer un stage d’entreprise et être parrainé tout au long de la scolarité.  
 [En savoir plus](/deloitte) sur le partenariat avec Deloitte.
 - Un partenariat avec la **Fondation ESSEC programme égalité des chances** : stage immersion de pré-rentrée fin août, participation au raid multisport ESSEC, etc.  
-[En savoir plus](/essec) sur le partenariat avec la fondation ESSEC.
+[En savoir plus](/fondation_essec) sur le partenariat avec la fondation ESSEC.
 - Un partenariat avec la **fondation HEC** : tutorat personnalisé, formations, etc.  
-[En savoir plus](/hec) sur le partenariat avec la fondation HEC.
+[En savoir plus](/fondation_hec) sur le partenariat avec la fondation HEC.
 - Des entraînements réguliers à l’**oral** dans toutes les matières mais aussi pour réussir « **l’oral de personnalité** ». Avec l’apport d’**intervenants extérieurs venus du monde professionnel**.
 - Un **accompagnement culturel stimulant** : Philharmonie de Paris, Musée du Louvre, etc.
 
