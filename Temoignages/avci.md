@@ -22,5 +22,7 @@ avatar: "/assets/img/avci.png"
 >espagnol. 
 >
 >**Que m'a apporté le partenariat Deloitte ?**  
->Les atouts du partenariat Deloitte sont multiples. En effet, c’est d’une part une très bonne entreprise à mettre sur son CV et je vous conseille vivement de garder ce >contact pour plus tard. D’autre part, j’ai eu la chance d’avoir à mes côtés L’équipe de la fondation et deux tuteurs de confiance. Ils m’ont toujours soutenu et aidé >dans mes projets professionnels et associatifs. 
+>Les atouts du partenariat Deloitte sont multiples. En effet, c’est d’une part une très bonne entreprise à mettre sur son CV et je vous conseille vivement de garder ce  
+>contact pour plus tard. D’autre part, j’ai eu la chance d’avoir à mes côtés L’équipe de la fondation et deux tuteurs de confiance. Ils m’ont toujours soutenu et aidé 
+>dans mes projets professionnels et associatifs. 
 
