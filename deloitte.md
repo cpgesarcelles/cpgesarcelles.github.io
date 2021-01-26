@@ -26,7 +26,7 @@ L’entreprise **Deloitte** est un leader mondial dans les activités d’audit 
 ---
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <figure><iframestyle="width:100%;height:100%;position:absolute;left:0px;top:30px;overflow:hidden" frameborder="0" type="text/html" src="https://www.youtube-nocookie.com/embed/s6J6hnGI7Co" width="100%" height="100%" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figure><iframe style="width:100%;height:100%;position:absolute;left:0px;top:30px;overflow:hidden" frameborder="0" type="text/html" src="https://www.youtube-nocookie.com/embed/s6J6hnGI7Co" width="100%" height="100%" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <figcaption> Présentation Jumelage étudiants CPGE JJR / Collaborateurs de Deloitte en 2011</figcaption>
    </figure> 
 </div>
