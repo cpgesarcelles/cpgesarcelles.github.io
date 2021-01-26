@@ -15,6 +15,9 @@ contenu:
   - name: Philosophie
     img: /assets/img/logo/logo_philo.jpg
     matiere: /Matieres/philo
+  - name: Allemand
+    img: /assets/img/logo/logo_all.png
+    matiere: /Matieres/allemand
 ---
 
 ### Horaires hebdomadaires ###
