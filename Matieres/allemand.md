@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Allemand
-avatar: "/assets/img/logo/logo_all.jpg"
+avatar: "/assets/img/logo/logo_all.png"
 ---
 
 - 3h en première année et 3 heures en deuxième année
