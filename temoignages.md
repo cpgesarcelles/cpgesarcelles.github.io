@@ -18,6 +18,10 @@ eleves:
     img: /assets/img/avci.png
     desc:  L3 AEI classe sélective International Business à l'université Paris Crétei
     temoignage: /Temoignages/avci
+  - name: Hajar Ouali
+    img: /assets/img/ouali.jpg
+    desc:   M2 spécialité Marketing Digital et E-Busines à l'ISC Paris
+    temoignage: /Temoignages/ouali
 ---
 
 {% include list-circles.html items=page.eleves %}
