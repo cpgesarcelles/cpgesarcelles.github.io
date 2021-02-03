@@ -19,8 +19,9 @@ navbar-links:
     - A qui s'adresse la filière ECG ?: "admission"
   La prépa à Rousseau:
     - Les plus de notre CPGE à Rousseau: "les_plusJJR"
-    - Témoignages: "temoignages"
+    #- Témoignages: "temoignages"
     - La prépa JJR en images: "prepa_en_images"
+  Témoignages: "temoignages"
   Nos partenariats:
     - Fondation Deloitte: "deloitte"
     - Fondation ESSEC: "fondation_essec"
