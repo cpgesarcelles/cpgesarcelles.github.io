@@ -29,4 +29,4 @@ A la fin de ma L3, et ayant réussi mes concours, j'ai été admis à l'IMT-BS (
 >Le partenariat avec Deloitte était une réelle opportunité afin de mieux connaître les différents métiers de consultant et d'auditeur.
 Au-delà de cet aspect, les différentes sorties culturelles étaient très enrichissantes.
  
-
+[Retour](/temoignages)
