@@ -1,6 +1,6 @@
 ---
 title: Témoignages
-subtitle: Paroles aux anciens élèves
+subtitle: Parole aux anciens élèves
 eleves:
   - name: Carl Bellerose, Promo 2012 
     img: /assets/img/Bellerose.JPG
