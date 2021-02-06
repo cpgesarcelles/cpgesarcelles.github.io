@@ -25,7 +25,7 @@ A la fin de ma L3, et ayant réussi mes concours, j'ai été admis à l'IMT-BS (
 >- **Quelles fonctions occupes-tu aujourd'hui ?**   
 >Aujourd'hui, je suis consultant en système d'informations chez Mc2i, en mission chez ENEDIS, pour la mise en place d'un nouveau SI d'envergure nationale.
 >
->- **L'importance du partenariat Deloitte ?**   
+>- **L'importance du partenariat Deloitte.**   
 >Le partenariat avec Deloitte était une réelle opportunité afin de mieux connaître les différents métiers de consultant et d'auditeur.
 Au-delà de cet aspect, les différentes sorties culturelles étaient très enrichissantes.
  
