@@ -18,6 +18,9 @@ contenu:
   - name: Allemand
     img: /assets/img/logo/logo_all.png
     matiere: /Matieres/allemand
+  - name: Anglais
+    img: /assets/img/logo/logo_anglais.png
+    matiere: /Matieres/anglais
 ---
 
 ### Horaires hebdomadaires ###
