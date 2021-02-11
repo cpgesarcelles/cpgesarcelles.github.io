@@ -21,11 +21,15 @@ Sous réserve que l’étudiant soit sérieux dans sa scolarité en CPGE
 | Un an | 60 ECTS = Licence 1 (L1) | L’élève peut s’inscrire en deuxième année (L2) |
 | Deux ans | 120 ECTS = Licence 2 (L2) | L’élève peut s’inscrire en troisième année (L3) |
 
+---
+
 ### Concours passerelle ###
 
 Le concours passerelle 2 est un concours qui permet à nos étudiants repartant en Licence 3 à **l’université pour intégrer une école de management directement au niveau M1**.
 
 [![image passerelle](assets/img/passerelle.png)](https://grande-ecole.passerelle-esc.com/)
+
+---
 
 ### Partenariat avec l'université Paris-Nanterre ###
 
@@ -33,9 +37,13 @@ Licence Économie et gestion : [description de la formation](https://www.parisna
 
 Inscription cumulative université-CPGE : [procédure et dossier](https://candidatures-inscriptions.parisnanterre.fr/dossier-d-inscription-cumulative-1ere-ou-2e-annee-non-cube--969032.kjsp?RH=1588860316234).
 
+---
+
 ### Partenariat avec l'Université Cergy ###
 
 Licence Économie et gestion: [description de la formation](https://www.u-cergy.fr/fr/ufr-economie-et-gestion.html).
+
+---
 
 ### Partenariat avec l'Université de Paris-Est Créteil (partenariat en cours de réalisation) ###
 
