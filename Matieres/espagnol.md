@@ -6,14 +6,13 @@ avatar: "/assets/img/logo/logo_espagnol.jpg"
 
 En cours d’espagnol en CPGE ECE (3h par semaine réparties sur deux jours) nous nous focalisons sur deux aspects :
 
-
- #### La langue ####
+#### La langue ####
 
 Nous étudions la conjugaison, la grammaire (nous reprenons tout, de la base, l’indicatif présent, au subjonctif imparfait) ainsi que la traduction (thème grammatical (traduire une phrase française en espagnol) et version (traduction de l’espagnol vers le français).)
 
 --- 
 
- #### La civilisation ####
+#### La civilisation ####
 
 Il s’agit principalement de comprendre le monde hispanique contemporain (L’Espagne et l’Amérique Latine dans leurs dynamiques socio-économiques et politiques à la fois internes et dans leur relation avec le monde). Pour y arriver, nous portons un regard sur l’histoire des pays et leur actualité à travers le cours, des articles de presse, des vidéos.
 
