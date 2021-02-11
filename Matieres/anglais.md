@@ -9,6 +9,7 @@ La prépa ECG vous forme à différents types d’épreuves: des traductions (d�
 
 Tout cela vous permet d’acquérir une solide culture du monde anglophone et de pouvoir comprendre la langue et vous exprimer à l’écrit comme à l’oral.
 
+---
 
 #### Oral ####
 
