@@ -13,5 +13,5 @@ resources:
       title: Concert à la Philharmonie de Paris (2016)
 ---
 
-{{% carousel title="optional" %}}
+{% carousel title="optional" %}
 
