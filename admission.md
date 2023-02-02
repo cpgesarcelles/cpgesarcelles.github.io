@@ -21,10 +21,10 @@ Une **pédagogie différenciée** et un **accompagnement pédagogique personnali
 
 L’inscription en classe préparatoire s’effectue via la procédure Parcoursup. Cette procédure Parcoursup se décompose en 5 grandes étapes :
 
-1. La **formulation de vos vœux** par Internet du 20 janvier 2020 au 11 mars 2021.
+1. La **formulation de vos vœux** sur Parcoursup du 18 janvier 2023 au 9 mars 2023.
 1. La **constitution** et l’envoi de votre **dossier**.
 1.  **Examen** de votre **dossier** début mai par une commission qui vous attribuera un classement.
 1.  Résultats d’admission en deux phases :
-    - **Phase d’admission principale** : 27/05/2021 au 16/07/2021.
-    - **Phase d’admission complémentaire** : 16/06/2021 au 16/09/2021.
+    - **Phase d’admission principale** : 01/06/2023 au 13/07/2023.
+    - **Phase d’admission complémentaire** : 15/06/2023 au 12/09/2023.
 1. **L’inscription administrative** dans l’établissement selon un calendrier harmonisé : début juillet après les résultats du baccalauréat pour la phase **d’admission principale** et fin août-début septembre pour la phase **d’admission complémentaire**.
