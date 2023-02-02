@@ -3,8 +3,8 @@ title: La prépa en images
 cover-img: ["assets/img/philharmonie2016_test.jpg" : "Concert à la Philharmonie de Paris (2016)", "assets/img/parlement_strasbourg.JPG" : "Parlement Strasbourg", "assets/img/topchef/topchef1.JPG" : "Prépa top chef"]
 js: /assets/js/visionneuse.js
 initialisation:
-  - img: /assets/img/philharmonie1.JPG
-    name: Concert à la Philharmonie de Paris (2016)
+  - img: /assets/img/orsay1_2022.jpg
+    name: Musée d'Orsay (2022)
 miniature: 
   - img: /assets/img/orsay1_2022.jpg
     mini: /assets/img/mini/orsay1_2022_mini.jpg
