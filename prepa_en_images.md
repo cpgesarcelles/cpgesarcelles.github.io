@@ -6,6 +6,12 @@ initialisation:
   - img: /assets/img/philharmonie1.JPG
     name: Concert à la Philharmonie de Paris (2016)
 miniature: 
+  - img: /assets/img/orsay1_2022.jpg
+    mini: /assets/img/mini/orsay1_2022_mini.jpg
+    name: Musée d'Orsay (2022)
+  - img: /assets/img/orsay2_2022.jpg
+    mini: /assets/img/mini/orsay2_2022_mini.jpg
+    name: Musée d'Orsay (2022)
   - img: /assets/img/philharmonie1.JPG
     mini: /assets/img/mini/philharmonie1_mini.jpg
     name: Concert à la Philharmonie de Paris (2016)
