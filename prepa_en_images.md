@@ -12,6 +12,9 @@ miniature:
   - img: /assets/img/orsay2_2022.jpg
     mini: /assets/img/mini/orsay2_2022_mini.jpg
     name: Musée d'Orsay (2022)
+  - img: /assets/img/forum_orientation.jpeg
+    mini: /assets/img/mini/forum_orientation_mini.jpg
+    name: Forum de l'orientation (2022)
   - img: /assets/img/philharmonie1.JPG
     mini: /assets/img/mini/philharmonie1_mini.jpg
     name: Concert à la Philharmonie de Paris (2016)
