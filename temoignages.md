@@ -20,7 +20,7 @@ eleves:
     temoignage: /Temoignages/avci
   - name: Hajar Ouali
     img: /assets/img/ouali.jpg
-    desc:   M2 spécialité Marketing Digital et E-Busines à l'ISC Paris
+    desc: Senior Project Manager chez Potloc au bureau de Montréal
     temoignage: /Temoignages/ouali
 ---
 
