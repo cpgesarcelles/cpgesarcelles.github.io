@@ -4,6 +4,16 @@ title: Témoignages
 subtitle: Hajar Ouali
 avatar: "/assets/img/ouali.jpg"
 ---
+
+{: .box-note}
+**Éléments contextuels:** 
+
+- **École intégrée** : ISC Paris
+- **Diplômée** : Master spécialité Marketing Digital et E-Business
+- **Poste actuel** : Senior Project Manager
+- **Entreprise actuelle** : Potloc, bureau de Montréal
+
+
 {: .box-note}
 **Retour d'expérience:** 
 
